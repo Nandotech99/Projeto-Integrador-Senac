@@ -8,7 +8,7 @@ public class Main {
         // 1. Inicializa o ambiente visual do software do Recanto dos Pássaros
         ViewPrincipal tela = new ViewPrincipal();
         tela.setVisible(true);
-
+        System.out.print("A");
     }
 }
 

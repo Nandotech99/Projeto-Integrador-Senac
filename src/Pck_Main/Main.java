@@ -1,6 +1,6 @@
 package Pck_Main;
 
-import Pck_View.ViewPrincipal;
+import FRONTEND.ViewPrincipal;
 
 public class Main {
 

@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="RecantoDosPassaros:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/RecantoDosPassaros_jar</output-path>
-    <root id="archive" name="RecantoDosPassaros.jar">
-      <element id="module-output" name="RecantoDosPassaros" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/LIB/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
